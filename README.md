@@ -1,4 +1,4 @@
-Projects_from_the_Online_Programming_Masterclass_for_Software_Developers_course
+Projects from the Online Programming Masterclass for Software Developers in Java course : 
 
 chapter_1_8:
 
